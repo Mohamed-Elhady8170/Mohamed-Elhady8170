@@ -20,8 +20,8 @@ I have great experience of building user-friendly dynamic & responsive web appli
 ### Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-elhady-4a005a251/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" style="vertical-align:center" /></a>
- <a href="https://flowcv.com/resume/848vk2ouie" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="https://flowcv.com/resume/848vk2ouie" target="_blank"><img alt="" src="https://img.shields.io/badge/resume-E4405F?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a></p>
+ <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/resume-E4405F?logo=vercel&logoColor=white&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 
 
